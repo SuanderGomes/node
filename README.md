@@ -1,2 +1,2 @@
-# node
-## Repositório criado a partir da aula inicial de Node do BootCamp da DIO.
+# node-server
+## Buscando informaçoões do pc e exibindo no navegador.
