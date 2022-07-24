@@ -1,2 +1,4 @@
 # node-server
-## Buscando informaçoões do pc e exibindo no navegador.
+## Iniciando um novo projeto;
+## Criando um servidor;
+## Exibindo mensagem de uso de memória.
